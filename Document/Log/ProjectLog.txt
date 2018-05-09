@@ -1,0 +1,6 @@
+20180508    Ming
+学习微信小程序架构，JavaScript基本语法，JSON相关知识
+
+20180509    Ming
+学习HTML，大概明白了HTML语法，使用方法，对WXML也有了初步认识，组件很重要，HTML使用div+CSS进行页面布局，HTML5使用新的语义元素（header,
+nav, section ...）进行布局，WXML则使用组件进行布局。下一步，搞清楚HTML和CSS关联方法！
